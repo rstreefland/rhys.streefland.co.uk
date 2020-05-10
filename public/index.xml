@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rhys Streefland</title>
+    <link>https://rhys.streefland.co.uk/</link>
+    <description>Recent content on Rhys Streefland</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 10 May 2020 12:43:35 +0100</lastBuildDate>
+    
+	<atom:link href="https://rhys.streefland.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://rhys.streefland.co.uk/about/</link>
+      <pubDate>Sun, 10 May 2020 12:43:35 +0100</pubDate>
+      
+      <guid>https://rhys.streefland.co.uk/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a software engineer currently working as a Full Stack Developer for &lt;a href=&#34;https://citypantry.com/&#34;&gt;City Pantry&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;When I&amp;rsquo;m not sat in front of a computer I enjoy running, swimming, cycling, skiing, and hiking.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
