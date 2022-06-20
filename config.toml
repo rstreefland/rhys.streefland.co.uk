@@ -17,7 +17,7 @@ pygmentscodefencesguesssyntax = true
     info = "Software Engineer | Runner"
     description = "Rhys Streefland's personal website"
     keywords = "developer,rhys,streefland,software,engineer,blog"
-    avatarurl = "rhys.jpeg"
+    avatarurl = "images/rhys.jpeg"
 
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
