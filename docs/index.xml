@@ -6,7 +6,6 @@
     <description>Recent content on Rhys Streefland</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 10 May 2020 12:43:35 +0100</lastBuildDate>
     
 	<atom:link href="https://rhys.streefland.co.uk/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,21 +13,14 @@
     <item>
       <title>About</title>
       <link>https://rhys.streefland.co.uk/about/</link>
-      <pubDate>Sun, 10 May 2020 12:43:35 +0100</pubDate>
+      <pubDate>Mon, 20 Jun 2022 14:21:00 +0100</pubDate>
       
       <guid>https://rhys.streefland.co.uk/about/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m a software engineer currently working as a Full Stack Developer for &lt;a href=&#34;https://citypantry.com/&#34;&gt;City Pantry&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;When I&amp;rsquo;m not sat in front of a computer I enjoy running, swimming, cycling, skiing, and hiking.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hello World!</title>
-      <link>https://rhys.streefland.co.uk/posts/hello-world/</link>
-      <pubDate>Sun, 10 May 2020 11:00:05 +0100</pubDate>
-      
-      <guid>https://rhys.streefland.co.uk/posts/hello-world/</guid>
-      <description>&lt;p&gt;Hello world!&lt;/p&gt;
+      <description>&lt;p&gt;I&amp;rsquo;m currently working as a Platform Engineer at &lt;a href=&#34;https://freetrade.io/&#34;&gt;Freetrade&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This site currently just serves as my landing page. Please take a look at my
+[LinkedIn
+profile]
+(&lt;a href=&#34;https://www.linkedin.com/in/rstreefland/&#34;&gt;https://www.linkedin.com/in/rstreefland/&lt;/a&gt;) to learn more about me or get in touch.&lt;/p&gt;
 </description>
     </item>
     
