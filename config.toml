@@ -1,12 +1,11 @@
 baseURL = "https://rhys.streefland.co.uk/"
 languageCode = "en-gb"
 title = "Rhys Streefland"
-theme = "hugo-coder"
 defaultcontentlanguage = "en"
 publishDir = "docs"
 
 paginate = 20
-canonifyurls = true
+canonifyurls = false
 
 pygmentsstyle = "bw"
 pygmentscodefences = true
@@ -14,7 +13,7 @@ pygmentscodefencesguesssyntax = true
 
 [params]
     author = "Rhys Streefland"
-    info = "Software Engineer | Runner"
+    info = "Staff engineer at Starling"
     description = "Rhys Streefland's personal website"
     keywords = "developer,rhys,streefland,software,engineer,blog"
     avatarurl = "images/rhys.jpeg"
@@ -29,7 +28,6 @@ pygmentscodefencesguesssyntax = true
     rtl = false
 
     math = false
-    custom_css = ["css/custom.css"]
 
 # Social links
 [[params.social]]
@@ -52,9 +50,3 @@ pygmentscodefencesguesssyntax = true
     icon = "fab fa-instagram fa-2x"
     weight = 4
     url = "https://www.instagram.com/rhysstreefland/"
-
-# Menu links
-[[menu.main]]
-    name = "About"
-    weight = 2
-    url = "/about/"
