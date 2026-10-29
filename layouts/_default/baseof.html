@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ if not .IsHome }}{{ .Title }} · {{ end }}{{ .Site.Title }}</title>
+<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+<link rel="canonical" href="{{ .Permalink }}">
+{{ $css := resources.Get "css/site.css" | minify | fingerprint }}<link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
+{{ if where .Site.RegularPages "Section" "posts" }}<link rel="alternate" type="application/rss+xml" title="Rhys Streefland" href="{{ "index.xml" | relURL }}">{{ end }}
+</head>
+<body><a class="skip" href="#main">Skip to content</a>
+<div class="shell">
+<main id="main">{{ block "main" . }}{{ end }}</main>
+{{ partial "footer.html" . }}</div></body></html>

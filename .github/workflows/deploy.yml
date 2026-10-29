@@ -15,7 +15,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          submodules: recursive
           fetch-depth: 0
 
       - name: Setup Hugo
@@ -25,7 +24,7 @@ jobs:
           extended: false
 
       - name: Build site
-        run: hugo --minify
+        run: hugo --minify --cleanDestinationDir
 
       - name: Commit and push built site
         run: |
